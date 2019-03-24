@@ -4,7 +4,7 @@ Chas theory visualizations.
 ## Usage
 Draw Mandelbrot Fractal
 ```
-python __init__.py
+make mandelbrot
 ```
 ## Author
 
